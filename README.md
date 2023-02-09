@@ -21,6 +21,24 @@ Checkout, catalogo, carrinho
 * MySQL 
 
 
+### Funcioanalidades a desenvolver 
+
+1. Criar tela de update 
+
+2. Consumir API de pagamento 
+
+3. Consulta viabilidade 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
