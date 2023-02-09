@@ -8,6 +8,8 @@ Checkout, catalogo, carrinho
 
 #### Melhorias do projeto 
 
-updates 1, melhoria 2 
+# _updates **1**, melhoria 2_
+
+
 
 
