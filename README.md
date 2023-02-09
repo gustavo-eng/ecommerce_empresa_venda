@@ -1,4 +1,4 @@
-# ecommerce_empresa_venda
+# ecommerce_empresa_venda / aula sobre markdown da UDEMY / repo teste!!
 
 Vamos *criar* um **e-commerce** 
 
@@ -24,10 +24,18 @@ Checkout, catalogo, carrinho
 ### Funcioanalidades a desenvolver 
 
 1. Criar tela de update 
+    1. Campos para dados 
+    2. INSTRUCTIONS   
+    3. Colors 
 
 2. Consumir API de pagamento 
 
 3. Consulta viabilidade 
+
+
+
+
+
 
 
 
