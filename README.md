@@ -1,5 +1,10 @@
 # ecommerce_empresa_venda
-Este é um e-commerce para a empresa venda feito em php e MySQL .
+
+Vamos criar um e-commerce 
+
+## Funcionalidades 
+
+Checkout, catalogo, carrinho 
 
 
-<h2>Edit </h2>
+
