@@ -11,5 +11,17 @@ Checkout, catalogo, carrinho
  _updates **1**, melhoria 2_
 
 
+# Listas - ordenadas e nao ordenadas 
+
+### Linguagens do projeto 
+
+* HTML 
+* CSS
+* Javascript 
+* MySQL 
+
+
+
+
 
 
