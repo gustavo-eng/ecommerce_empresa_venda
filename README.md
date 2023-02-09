@@ -6,5 +6,8 @@ Vamos criar um e-commerce
 
 Checkout, catalogo, carrinho 
 
+ #### Melhorias do projeto 
+
+updates 1, melhoria 2 
 
 
