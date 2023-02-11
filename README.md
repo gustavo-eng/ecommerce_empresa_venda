@@ -20,7 +20,6 @@ Checkout, catalogo, carrinho
 * Javascript 
 * MySQL 
 
-
 ### Funcioanalidades a desenvolver 
 
 1. Criar tela de update 
@@ -31,6 +30,14 @@ Checkout, catalogo, carrinho
 2. Consumir API de pagamento 
 
 3. Consulta viabilidade 
+
+
+### Imagem Local 
+
+![Logo vacina](ecommerce\img\siringa.png)
+
+
+
 
 
 
