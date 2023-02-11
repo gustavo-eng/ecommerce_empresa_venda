@@ -51,6 +51,33 @@ Checkout, catalogo, carrinho
 Contribuidor principal https://github.com/gustavo-eng
 
 
+# Cod in body text IMPORTANTE 
+#### Javascript 
+
+```javascript
+    const igual = (a, b) => {
+        if(a == b) {
+            return `equals !`
+        } else {
+            return `not equals`
+        }
+    }
+```
+
+```dockerfile
+    WORKDIR app/ 
+    COPY . .  
+    RUN npm i
+    CMD [' npm ', ' start ']
+```
+
+
+
+
+
+
+
+
 
 
 
