@@ -40,7 +40,7 @@ Checkout, catalogo, carrinho
 
 ### Imagem externa 
 
-![Logo JS](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
+![Logo JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 
 
 
