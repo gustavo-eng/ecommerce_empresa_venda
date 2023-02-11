@@ -48,6 +48,7 @@ Checkout, catalogo, carrinho
 
 [Google](https://www.google.com)
 
+Contribuidor principal https://github.com/gustavo-eng
 
 
 
