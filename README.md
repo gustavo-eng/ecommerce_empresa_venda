@@ -84,10 +84,10 @@ Contribuidor principal https://github.com/gustavo-eng
 
  ## Lista de tarefas a fazer 
 
- [ x ] TODO list 
- [] Back-end
- [] Front-end 
- [x] Database 
+- [x] TODO list 
+- [] Back-end
+- [] Front-end 
+- [x] Database 
 
 
 
