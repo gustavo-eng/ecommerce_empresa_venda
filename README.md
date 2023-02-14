@@ -59,7 +59,15 @@ Contribuidor principal https://github.com/gustavo-eng
         if(a == b) {
             return `equals !`
         } else {
-            return `not equals`
+            return `not equals !!`
+        }
+    }
+
+    function diferente(x, y) {
+        if (x != y) {
+            return 'diff'
+        } else {
+            return 'equal'
         }
     }
 ```
@@ -74,7 +82,7 @@ Contribuidor principal https://github.com/gustavo-eng
 
 
 
-
+ 
 
 
 
